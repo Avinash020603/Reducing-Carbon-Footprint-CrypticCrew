@@ -1,0 +1,657 @@
+[
+    {
+        "category": "Bananas",
+        "footprint": 0.5,
+        "alt": "Use local produce"
+    },
+    {
+        "category": "Plastic Bottle",
+        "footprint": 0.3,
+        "alt": "Use steel or glass bottles"
+    },
+    {
+        "category": "Toilet Paper",
+        "footprint": 1.5,
+        "alt": "Use bamboo-based products"
+    },
+    {
+        "category": "Eggs",
+        "footprint": 4.8,
+        "alt": "Try flax eggs or plant-based alternatives"
+    },
+    {
+        "category": "Pizza",
+        "footprint": 4.5,
+        "alt": "Try homemade veggie pizza"
+    },
+    {
+        "category": "Mobile Phone",
+        "footprint": 70.0,
+        "alt": "Buy refurbished phones"
+    },
+    {
+        "category": "Burger",
+        "footprint": 5.0,
+        "alt": "Switch to plant-based burgers"
+    },
+    {
+        "category": "Pen",
+        "footprint": 0.4,
+        "alt": "Use refillable pens"
+    },
+    {
+        "category": "Chicken",
+        "footprint": 6.9,
+        "alt": "Try tofu or seitan"
+    },
+    {
+        "category": "Potatoes",
+        "footprint": 0.3,
+        "alt": "Great choice!"
+    },
+    {
+        "category": "Ice Cream",
+        "footprint": 2.8,
+        "alt": "Try fruit sorbets"
+    },
+    {
+        "category": "Tea",
+        "footprint": 0.9,
+        "alt": "Use loose leaf tea"
+    },
+    {
+        "category": "Rice",
+        "footprint": 2.7,
+        "alt": "Use local millets or quinoa"
+    },
+    {
+        "category": "Shampoo",
+        "footprint": 1.2,
+        "alt": "Try bar shampoo"
+    },
+    {
+        "category": "Apples",
+        "footprint": 0.2,
+        "alt": "Stick to seasonal fruits"
+    },
+    {
+        "category": "Chocolate",
+        "footprint": 4.2,
+        "alt": "Moderate your intake"
+    },
+    {
+        "category": "Milk",
+        "footprint": 3.2,
+        "alt": "Try oat or almond milk"
+    },
+    {
+        "category": "Onions",
+        "footprint": 0.5,
+        "alt": "Use fresh local produce"
+    },
+    {
+        "category": "Detergent",
+        "footprint": 2.0,
+        "alt": "Use eco-friendly brands"
+    },
+    {
+        "category": "Printer Paper",
+        "footprint": 5.0,
+        "alt": "Use recycled paper"
+    },
+    {
+        "category": "Coffee",
+        "footprint": 3.5,
+        "alt": "Reduce coffee waste"
+    },
+    {
+        "category": "Beef",
+        "footprint": 27.0,
+        "alt": "Try lentils or tofu"
+    },
+    {
+        "category": "Cotton T-shirt",
+        "footprint": 2.5,
+        "alt": "Use recycled fabric"
+    },
+    {
+        "category": "Tomatoes",
+        "footprint": 1.1,
+        "alt": "Use seasonal vegetables"
+    },
+    {
+        "category": "Butter",
+        "footprint": 11.9,
+        "alt": "Use plant-based margarine or oils"
+    },
+    {
+        "category": "Soap",
+        "footprint": 1.0,
+        "alt": "Use refillable bottles"
+    },
+    {
+        "category": "Wheat Bread",
+        "footprint": 1.1,
+        "alt": "Use wholegrain or sourdough options"
+    },
+    {
+        "category": "Yogurt",
+        "footprint": 2.2,
+        "alt": "Try coconut or soy yogurt"
+    },
+    {
+        "category": "Lettuce",
+        "footprint": 0.4,
+        "alt": "Try kale or cabbage"
+    },
+    {
+        "category": "Lamb",
+        "footprint": 39.2,
+        "alt": "Switch to mushrooms or pulses"
+    },
+    {
+        "category": "Avocados",
+        "footprint": 2.0,
+        "alt": "Reduce import-heavy produce"
+    },
+    {
+        "category": "Shoes",
+        "footprint": 10.0,
+        "alt": "Choose eco-friendly brands"
+    },
+    {
+        "category": "Biscuits",
+        "footprint": 1.6,
+        "alt": "Try homemade snacks"
+    },
+    {
+        "category": "Jeans",
+        "footprint": 6.0,
+        "alt": "Try sustainable denim"
+    },
+    {
+        "category": "Cheese",
+        "footprint": 13.5,
+        "alt": "Try vegan cheese"
+    },
+    {
+        "category": "Fries",
+        "footprint": 1.8,
+        "alt": "Try baked sweet potato fries"
+    },
+    {
+        "category": "Chips",
+        "footprint": 2.0,
+        "alt": "Try roasted chickpeas"
+    },
+    {
+        "category": "Notebook",
+        "footprint": 2.0,
+        "alt": "Use digital notes"
+    },
+    {
+        "category": "Laptop",
+        "footprint": 200.0,
+        "alt": "Use longer before replacing"
+    },
+    {
+        "category": "Amul Milk",
+        "footprint": 3.5,
+        "alt": "Try local dairy alternatives or plant-based milk"
+    },
+    {
+        "category": "Parle-G Biscuits",
+        "footprint": 1.8,
+        "alt": "Try homemade snacks or local bakery items"
+    },
+    {
+        "category": "Maggi Noodles",
+        "footprint": 2.5,
+        "alt": "Try homemade noodles or local pasta"
+    },
+    {
+        "category": "Tata Tea",
+        "footprint": 1.0,
+        "alt": "Try loose leaf tea or local herbal teas"
+    },
+    {
+        "category": "Britannia Bread",
+        "footprint": 1.2,
+        "alt": "Try local bakery bread or homemade options"
+    },
+    {
+        "category": "Dabur Honey",
+        "footprint": 1.5,
+        "alt": "Try local honey or jaggery"
+    },
+    {
+        "category": "Haldiram's Namkeen",
+        "footprint": 2.0,
+        "alt": "Try homemade snacks or local street food"
+    },
+    {
+        "category": "Nestle Coffee",
+        "footprint": 3.8,
+        "alt": "Try local coffee brands or herbal teas"
+    },
+    {
+        "category": "Cadbury Chocolate",
+        "footprint": 4.5,
+        "alt": "Try local sweets or homemade desserts"
+    },
+    {
+        "category": "Patanjali Products",
+        "footprint": 1.2,
+        "alt": "Try homemade remedies or local alternatives"
+    },
+    {
+        "category": "Bajaj Electricals",
+        "footprint": 15.0,
+        "alt": "Choose energy-efficient appliances"
+    },
+    {
+        "category": "Godrej Furniture",
+        "footprint": 8.0,
+        "alt": "Try sustainable or recycled furniture"
+    },
+    {
+        "category": "Asian Paints",
+        "footprint": 3.0,
+        "alt": "Use eco-friendly paints or natural colors"
+    },
+    {
+        "category": "Titan Watches",
+        "footprint": 5.0,
+        "alt": "Consider sustainable watch brands"
+    },
+    {
+        "category": "Raymond Suits",
+        "footprint": 7.0,
+        "alt": "Try sustainable fashion brands"
+    },
+    {
+        "category": "Bata Shoes",
+        "footprint": 6.5,
+        "alt": "Choose eco-friendly footwear"
+    },
+    {
+        "category": "VIP Luggage",
+        "footprint": 4.0,
+        "alt": "Use sustainable travel bags"
+    },
+    {
+        "category": "Dabur Chyawanprash",
+        "footprint": 2.5,
+        "alt": "Try homemade herbal remedies"
+    },
+    {
+        "category": "Himalaya Face Wash",
+        "footprint": 1.8,
+        "alt": "Use natural skincare products"
+    },
+    {
+        "category": "Lakme Cosmetics",
+        "footprint": 2.2,
+        "alt": "Try organic or natural cosmetics"
+    },
+    {
+        "category": "Colgate Toothpaste",
+        "footprint": 1.5,
+        "alt": "Use natural toothpaste or neem sticks"
+    },
+    {
+        "category": "Dettol Soap",
+        "footprint": 1.2,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Surf Excel",
+        "footprint": 2.8,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Vim Dishwash",
+        "footprint": 1.6,
+        "alt": "Use natural cleaning agents"
+    },
+    {
+        "category": "Tide Detergent",
+        "footprint": 2.5,
+        "alt": "Use eco-friendly laundry products"
+    },
+    {
+        "category": "Ariel Washing Powder",
+        "footprint": 2.7,
+        "alt": "Use natural laundry alternatives"
+    },
+    {
+        "category": "Pepsodent Toothpaste",
+        "footprint": 1.4,
+        "alt": "Use natural dental care products"
+    },
+    {
+        "category": "Closeup Toothpaste",
+        "footprint": 1.3,
+        "alt": "Try natural mouthwash or neem sticks"
+    },
+    {
+        "category": "Dove Soap",
+        "footprint": 1.1,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Lux Soap",
+        "footprint": 1.0,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Lifebuoy Soap",
+        "footprint": 1.2,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Pears Soap",
+        "footprint": 1.1,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Hamam Soap",
+        "footprint": 1.0,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Santoor Soap",
+        "footprint": 1.1,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Cinthol Soap",
+        "footprint": 1.2,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Medimix Soap",
+        "footprint": 1.0,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Mysore Sandal Soap",
+        "footprint": 1.1,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Park Avenue Soap",
+        "footprint": 1.2,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Fiama Soap",
+        "footprint": 1.1,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Vivel Soap",
+        "footprint": 1.0,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Nirma Soap",
+        "footprint": 1.0,
+        "alt": "Use natural or herbal soaps"
+    },
+    {
+        "category": "Rin Detergent",
+        "footprint": 2.3,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Wheel Detergent",
+        "footprint": 2.2,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Ghadi Detergent",
+        "footprint": 2.1,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Nirma Detergent",
+        "footprint": 2.0,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Henko Detergent",
+        "footprint": 2.4,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Ariel Detergent",
+        "footprint": 2.6,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Surf Excel Detergent",
+        "footprint": 2.7,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Tide Detergent",
+        "footprint": 2.5,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Rin Detergent",
+        "footprint": 2.3,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Wheel Detergent",
+        "footprint": 2.2,
+        "alt": "Use eco-friendly detergents"
+    },
+    {
+        "category": "Lay's Chips",
+        "footprint": 2.2,
+        "alt": "Try homemade chips or roasted snacks"
+    },
+    {
+        "category": "Kurkure",
+        "footprint": 2.3,
+        "alt": "Try homemade namkeen or roasted snacks"
+    },
+    {
+        "category": "Bingo Chips",
+        "footprint": 2.1,
+        "alt": "Try homemade chips or roasted snacks"
+    },
+    {
+        "category": "Balaji Chips",
+        "footprint": 2.0,
+        "alt": "Try homemade chips or roasted snacks"
+    },
+    {
+        "category": "Haldiram's Chips",
+        "footprint": 2.2,
+        "alt": "Try homemade chips or roasted snacks"
+    },
+    {
+        "category": "Pringles",
+        "footprint": 2.4,
+        "alt": "Try homemade chips or roasted snacks"
+    },
+    {
+        "category": "Uncle Chips",
+        "footprint": 2.1,
+        "alt": "Try homemade chips or roasted snacks"
+    },
+    {
+        "category": "Cheetos",
+        "footprint": 2.3,
+        "alt": "Try homemade chips or roasted snacks"
+    },
+    {
+        "category": "Doritos",
+        "footprint": 2.4,
+        "alt": "Try homemade chips or roasted snacks"
+    },
+    {
+        "category": "Pogo",
+        "footprint": 2.2,
+        "alt": "Try homemade snacks or roasted snacks"
+    },
+    {
+        "category": "Harpic Toilet Cleaner",
+        "footprint": 2.5,
+        "alt": "Use natural cleaning agents or vinegar"
+    },
+    {
+        "category": "Lizol Floor Cleaner",
+        "footprint": 2.3,
+        "alt": "Use natural floor cleaners or homemade solutions"
+    },
+    {
+        "category": "Mr. Muscle Cleaner",
+        "footprint": 2.4,
+        "alt": "Use natural cleaning agents or homemade solutions"
+    },
+    {
+        "category": "Domex Toilet Cleaner",
+        "footprint": 2.5,
+        "alt": "Use natural cleaning agents or vinegar"
+    },
+    {
+        "category": "All Out Mosquito Repellent",
+        "footprint": 2.8,
+        "alt": "Use natural mosquito repellents or citronella"
+    },
+    {
+        "category": "Good Knight Mosquito Repellent",
+        "footprint": 2.7,
+        "alt": "Use natural mosquito repellents or citronella"
+    },
+    {
+        "category": "Hit Mosquito Spray",
+        "footprint": 2.9,
+        "alt": "Use natural mosquito repellents or citronella"
+    },
+    {
+        "category": "Mortein Mosquito Repellent",
+        "footprint": 2.8,
+        "alt": "Use natural mosquito repellents or citronella"
+    },
+    {
+        "category": "Odomos Mosquito Repellent",
+        "footprint": 2.6,
+        "alt": "Use natural mosquito repellents or citronella"
+    },
+    {
+        "category": "Baygon Insect Spray",
+        "footprint": 2.9,
+        "alt": "Use natural insect repellents or neem oil"
+    },
+    {
+        "category": "Maxo Mosquito Repellent",
+        "footprint": 2.7,
+        "alt": "Use natural mosquito repellents or citronella"
+    },
+    {
+        "category": "Lizol Disinfectant",
+        "footprint": 2.4,
+        "alt": "Use natural disinfectants or vinegar"
+    },
+    {
+        "category": "Dettol Disinfectant",
+        "footprint": 2.5,
+        "alt": "Use natural disinfectants or vinegar"
+    },
+    {
+        "category": "Savlon Disinfectant",
+        "footprint": 2.3,
+        "alt": "Use natural disinfectants or vinegar"
+    },
+    {
+        "category": "Lifebuoy Handwash",
+        "footprint": 1.8,
+        "alt": "Use natural handwash or soap nuts"
+    },
+    {
+        "category": "Dettol Handwash",
+        "footprint": 1.9,
+        "alt": "Use natural handwash or soap nuts"
+    },
+    {
+        "category": "Savlon Handwash",
+        "footprint": 1.7,
+        "alt": "Use natural handwash or soap nuts"
+    },
+    {
+        "category": "Godrej Handwash",
+        "footprint": 1.6,
+        "alt": "Use natural handwash or soap nuts"
+    },
+    {
+        "category": "Patanjali Handwash",
+        "footprint": 1.5,
+        "alt": "Use natural handwash or soap nuts"
+    },
+    {
+        "category": "Himalaya Handwash",
+        "footprint": 1.6,
+        "alt": "Use natural handwash or soap nuts"
+    },
+    {
+        "category": "Vim Bar",
+        "footprint": 1.2,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Rin Bar",
+        "footprint": 1.3,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Wheel Bar",
+        "footprint": 1.1,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Nirma Bar",
+        "footprint": 1.0,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Ghadi Bar",
+        "footprint": 1.1,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Henko Bar",
+        "footprint": 1.2,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Ariel Bar",
+        "footprint": 1.3,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Surf Excel Bar",
+        "footprint": 1.4,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Tide Bar",
+        "footprint": 1.3,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Rin Bar",
+        "footprint": 1.2,
+        "alt": "Use natural cleaning bars or soap nuts"
+    },
+    {
+        "category": "Wheel Bar",
+        "footprint": 1.1,
+        "alt": "Use natural cleaning bars or soap nuts"
+    }
+] 
